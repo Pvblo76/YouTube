@@ -76,6 +76,11 @@ Engagement metrics for Shorts conten
 
 <img src="https://github.com/Imran-khattak/YouTube/blob/master/assets/assets/images/all-devices-black.png"/>
 
+# Desktop View
+<img src="https://github.com/Imran-khattak/YouTube/blob/master/desktop%20(1).png"/>
+<img src="https://github.com/Imran-khattak/YouTube/blob/master/desktop%20(3).png"/>
+<img src="https://github.com/Imran-khattak/YouTube/blob/master/desktop%20(2).png"/>
+<img src="https://github.com/Imran-khattak/YouTube/blob/master/desktop.png"/>
 
 # Mobile View
 
